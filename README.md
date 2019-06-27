@@ -1,4 +1,4 @@
-#i18 Locale Enum#
+#i18 Locale Enum
 
 A Typescript enum containing all locales, such as `en-US` or `zh-Hant-HK`.
 
@@ -8,14 +8,14 @@ Install:
 
 Use:
 
-```
+```js
 const Locale = require('locale-enum');
 console.log(Locale.en_US); // "en-US"
 ```
 
 Import using `import`:
 
-```
+```js
 import { Locale } from 'locale-enum';
 ```
 
