@@ -490,6 +490,7 @@ export enum Locale {
   zh_Hans_MO = 'zh-Hans-MO',
   zh_Hans_SG = 'zh-Hans-SG',
   zh_Hant = 'zh-Hant',
+  zh_Hant_CN = 'zh-Hant-CN',
   zh_Hant_HK = 'zh-Hant-HK',
   zh_Hant_MO = 'zh-Hant-MO',
   zh_Hant_TW = 'zh-Hant-TW',
