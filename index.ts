@@ -105,6 +105,7 @@ export enum Locale {
   en_BW = 'en-BW',
   en_BZ = 'en-BZ',
   en_CA = 'en-CA',
+  en_CN = 'en-CN',
   en_GB = 'en-GB',
   en_GU = 'en-GU',
   en_GY = 'en-GY',
