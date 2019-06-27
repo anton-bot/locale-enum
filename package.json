@@ -1,0 +1,25 @@
+{
+  "name": "locale-enum",
+  "version": "1.0.0",
+  "description": "A TypeScript enum of all locales, such as \"en-US\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-bot/locale-enum.git"
+  },
+  "keywords": [
+    "typescript",
+    "locale",
+    "i18n",
+    "locales"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/anton-bot/locale-enum/issues"
+  },
+  "homepage": "https://github.com/anton-bot/locale-enum#readme"
+}
