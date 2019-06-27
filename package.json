@@ -4,7 +4,8 @@
   "description": "A TypeScript enum of all locales, such as \"en-US\".",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no test\""
+    "test": "npm run build && node index.js",
+    "build": "tsc index.ts"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/anton-bot/locale-enum/issues"
   },
-  "homepage": "https://github.com/anton-bot/locale-enum#readme"
+  "homepage": "https://github.com/anton-bot/locale-enum#readme",
+  "dependencies": {
+    "typescript": "latest"
+  }
 }
