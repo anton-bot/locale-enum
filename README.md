@@ -1,6 +1,7 @@
-#i18 Locale Enum
+#Typescript Locale Enum
 
-A Typescript enum containing all locales, such as `en-US` or `zh-Hant-HK`.
+A Typescript enum containing all locales, such as `en-US` or `zh-Hant-HK`. Uses
+mixed-case strings for locales (`en-US`, not `en-us`). Contains 495 locales.
 
 Install:
 
@@ -17,6 +18,9 @@ Import using `import`:
 
 ```js
 import { Locale } from 'locale-enum';
+console.log(Locale.fr_FR); // "fr-FR"
 ```
 
-Note: the enum keys are with underscores, while string values contain dashes.
+Note: the enum keys use underscores, while string values use dashes.
+
+Pull requests and comments are welcome at the GitHub repo.
