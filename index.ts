@@ -493,6 +493,7 @@ export enum Locale {
   zh_Hant_CN = 'zh-Hant-CN',
   zh_Hant_HK = 'zh-Hant-HK',
   zh_Hant_MO = 'zh-Hant-MO',
+  zh_Hant_SG = 'zh-Hant-SG',
   zh_Hant_TW = 'zh-Hant-TW',
   zu = 'zu',
   zu_ZA = 'zu-ZA',
