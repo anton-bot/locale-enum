@@ -1,6 +1,6 @@
 {
   "name": "locale-enum",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A TypeScript enum of all locales, such as \"en-US\".",
   "main": "index.js",
   "scripts": {
