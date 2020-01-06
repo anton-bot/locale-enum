@@ -1,4 +1,4 @@
-#TypeScript Locale Enum
+# TypeScript Locale Enum #
 
 A TypeScript enum containing all locales, such as `en-US` or `zh-Hant-HK`. Uses
 mixed-case strings for locales (`en-US`, not `en-us`). Contains 495 locales.
