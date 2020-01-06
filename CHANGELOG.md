@@ -1,3 +1,11 @@
+## 1.0.12 ##
+
+- Fix build error
+
+## 1.0.11 ##
+
+- Added new locales: zh_Hans_PH
+
 ## 1.0.10 ##
 
 - Added new locales: zh_Hans_AE, zh_Hans_AU, zh_Hans_CA, zh_Hans_MY, zh_Hans_NZ,
