@@ -1,3 +1,7 @@
+## 1.0.13 ##
+
+- Add Vietnamese locales
+
 ## 1.0.12 ##
 
 - Fix build error
