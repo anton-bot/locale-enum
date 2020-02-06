@@ -132,6 +132,7 @@ export enum Locale {
   en_US = 'en-US',
   en_US_POSIX = 'en-US-POSIX',
   en_VI = 'en-VI',
+  en_VN = 'en-VN',
   en_ZA = 'en-ZA',
   en_ZW = 'en-ZW',
   eo = 'eo',
@@ -503,6 +504,7 @@ export enum Locale {
   zh_Hans_TH = 'zh-Hans-TH',
   zh_Hans_TW = 'zh-Hans-TW',
   zh_Hans_US = 'zh-Hans-US',
+  zh_Hans_VN = 'zh-Hans-VN',
   zh_Hant = 'zh-Hant',
   zh_Hant_AE = 'zh-Hant-AE',
   zh_Hant_AU = 'zh-Hant-AU',
@@ -517,6 +519,7 @@ export enum Locale {
   zh_Hant_TH = 'zh-Hant-TH',
   zh_Hant_TW = 'zh-Hant-TW',
   zh_Hant_US = 'zh-Hant-US',
+  zh_Hant_VN = 'zh-Hant-VN',
   zu = 'zu',
   zu_ZA = 'zu-ZA',
 };
