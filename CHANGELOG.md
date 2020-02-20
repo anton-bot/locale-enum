@@ -1,3 +1,7 @@
+## 1.0.15 ##
+
+- Add ~200 new locales for English and Chinese
+
 ## 1.0.13 ##
 
 - Add Vietnamese locales
