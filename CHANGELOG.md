@@ -1,3 +1,7 @@
+## 1.1 ##
+
+- Fix wrong country code for Slovenia (was SL, now SI)
+
 ## 1.0.15 ##
 
 - Add ~200 new locales for English and Chinese
