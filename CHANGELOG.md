@@ -1,3 +1,7 @@
+## 1.1.1 ##
+
+- Add zh_Hans_GB, zh_Hant_GB
+
 ## 1.1 ##
 
 - Fix wrong country code for Slovenia (was SL, now SI)
